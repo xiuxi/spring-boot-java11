@@ -1,0 +1,20 @@
+mvn compile
+
+gradlew bootRun
+
+https://code.visualstudio.com/docs/java/java-webapp
+
+https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr
+
+mvn dependency:copy-dependencies
+
+mvn spring-boot:run
+
+vscode spring boot debug.png
+
+http://localhost:8080/
+
+
+java -jar path/to/your/jarfile.jar fully.qualified.package.Application 
+
+mvn clean package
